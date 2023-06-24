@@ -1,3 +1,3 @@
 function alert(){
-  window.alert(' dude');
+  alert('dude');
 }
