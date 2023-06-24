@@ -1,3 +1,3 @@
-function alert(){
+function ShowAlert(){
   alert('dude');
 }
