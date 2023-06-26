@@ -1,3 +1,3 @@
-function ShowAlert(){
-  alert('dude');
+function alertUser(){
+  alert("Hello, you clicked the button!");
 }
